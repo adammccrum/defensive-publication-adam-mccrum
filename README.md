@@ -2,7 +2,8 @@
 Defensive publication to establish prior art on transportation risk prevention technologies.
 [Uploading 03_Patent_Claims_%PDF-1.3
 %���� ReportLab Generated PDF document http://www.reportlab.com[Uploadi%PDF-1.3
-%���� ReportLab Generated PDF document http://www.reportlab.com
+%���� ReportLab Generated PDF document http://www.reportlab.com[Watertight Patent Rewrite (1).pdf](https://github.com/user-attachments/files/22356632/Watertight.Patent.Rewrite.1.pdf)
+
 1 0 obj
 <<
 /F1 2 0 R
