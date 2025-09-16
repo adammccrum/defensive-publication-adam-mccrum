@@ -1,8 +1,146 @@
-[03_Patent_Claims_Disclosure.pdf](https://github.com/user-attachments/files/22356571/03_Patent_Claims_Disclosure.pdf)# defensive-publication-adam-mccrum
+[01_Defensive_Publication.pdf](https://github.com/user-attachments/files/22356590/01_Defensive_Publication.pdf)[03_Patent_Claims_Disclosure.pdf](https://github.com/user-attachments/files/22356571/03_Patent_Claims_Disclosure.pdf)# defensive-publication-adam-mccrum
 Defensive publication to establish prior art on transportation risk prevention technologies.
 [Uploading 03_Patent_Claims_%PDF-1.3
+%���� ReportLab Generated PDF document http://www.reportlab.com[Uploadi%PDF-1.3
 %���� ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
+<<
+/F1 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/Contents 7 0 R /MediaBox [ 0 0 612 792 ] /Parent 6 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+4 0 obj
+<<
+/PageMode /UseNone /Pages 6 0 R /Type /Catalog
+>>
+endobj
+5 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20250916053320+00'00') /Creator (ReportLab PDF Library - www.reportlab.com) /Keywords () /ModDate (D:20250916053320+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+6 0 obj
+<<
+/Count 1 /Kids [ 3 0 R ] /Type /Pages
+>>
+endobj
+7 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 670
+>>
+stream
+GarVL9lJc?%))C:n<a].(C/V#jOS]pkaDKSise*B_FRAE<F:jK!;ZAaSL/Kg_6FSLI,]L#<!bp;b3l;]^pJ]S?V2_:;!jnqhi=C6_P4W)Gkmdh*l?`8p?d>b#BSU]97.ja2d=0,1OF<TeShBM5l2%;EL:75$'_&j6QqZL;M<G:o]_l1\8QETirnd->$.b,D!Ya%>8'#2<p`0dpu+2rL.?E6m4CF2^)FaT",kuq</(M8.j::$;T>U]de!,n@TCYZZr`55QU.7l-pb!BdP2'C)mCT@FLhKp)DJ0pWi@U__9PP9#goD$')=P^9>SYr;CYpYA=!dHG.S4gZTp'PIh#*pNk,K5o+?Rr7RB0pU*tR8r.1TY&7c5J[!(=$4]Aq?-fU8KnDKg$FCip(/a:BRE<WE^PIXe@/Ie/S(K"$JZ[QDnaf&NlJ1!Z^<,BP(qO"dnX9AH/"*3c)25dkr4gP=c]g7u(><GdBPiY-Ri\=uYNu2W2\8Ze<e,ot\TsAN=/!m(+1(Q0ZK4/kZ@#7C2rTr_g'iPfhU,c.7dr3La1pUY%>%A.BTac&-Kl*/,A*/\<&k+1Sf$S-6]Lb9E`elE'A+?FMr#G\#C5S7j7).Q.'s$PVR6e:GhapHmhZP>lckfC>h$t;3P.!q)eM8E*:0>^V^ZAM5eK8uC4;@~>endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000073 00000 n 
+0000000104 00000 n 
+0000000211 00000 n 
+0000000404 00000 n 
+0000000472 00000 n 
+0000000768 00000 n 
+0000000827 00000 n 
+trailer
+<<
+/ID 
+[<7c635a60d6bf019564aa77d35d889f68><7c635a60d6bf019564aa77d35d889f68>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 5 0 R
+/Root 4 0 R
+/Size 8
+>>
+startxref
+1587
+%%EOF
+ng 01_Defensive_Publication.pdf…]()
+
+1 0 obj[02_GitHub_README_Summary.pdf](https://github.com/user-attachments/files/22356583/02_GitHub_README_Summary.pdf)%PDF-1.3
+%���� ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/Contents 7 0 R /MediaBox [ 0 0 612 792 ] /Parent 6 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+4 0 obj
+<<
+/PageMode /UseNone /Pages 6 0 R /Type /Catalog
+>>
+endobj
+5 0 obj
+<<
+/Author (anonymous) /CreationDate (D:20250916053320+00'00') /Creator (ReportLab PDF Library - www.reportlab.com) /Keywords () /ModDate (D:20250916053320+00'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (unspecified) /Title (untitled) /Trapped /False
+>>
+endobj
+6 0 obj
+<<
+/Count 1 /Kids [ 3 0 R ] /Type /Pages
+>>
+endobj
+7 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 950
+>>
+stream
+Gas1]>u03?&:EYBlr+YQ"@tq[`#Fe';kTr)[!b2+kIXC"E*p1<Vt.UkT&Vf=<2q@'I(,]<SXnRkSBtnRs)JQfRDJFd(rd61<\Q^#3eco1B%[3UO.4MF'DQT?p\GtoK,]bVb8_R9(Xr7!/5*+5Y7;_&L$U%[n">/QhRf9"Pr&M#&f,&]OL'boS3uG,$-rBL5=8IraW`:KgdkA9I"3`JSO-quKOkmme32TF1)AH5_hDJ:meN,$g\\gO`?nk=Uc=/")(_U/KNrhjS4l,UOl&cl5p5'JH86>6J6OjG@5U.XDNrD6K%XlbH%ZX4V?iPui6$f&bNHbaXfT;<?90#Z>$h<>-8ICY(p'gj"=@;<gg1O'><p=>Z&fO^Jqp!F<@PcrQk@+r08La3PW#3IVXp)cGlinP6)gqE\o$PNMT&!A#j)_T,+9p>TOO[M+?]b05k14<I>!dO4?1d:6r<5GSNg2A^C`X$@cSr;!Z$WhM]ncN_4(?c18QH+W)58[7(G!Pfepoke2N0EV+tr7fu,7meiSKr[*Es]39MU\qdnON,:?O]4IM_UFfEkc_HIpYP1g^Lb7L(b;XE.+aHpR3=AO?UjJ&GHdfg*@Dk4\SFprfD:roG[$;*4Dc#/QVcQ>6B5>#NsWCL8!,T(i[qoV@>p<47O2gJ;`(M&D#c2r-=[m'7KAVmh`AGlYJ>9gt%V"Z:KYs0VN+m@E6Nms<C>0<;jlA<2&4kWa$-#UBNdESi0:]cnAj_/CfOA>D<@`*(dkqO'.AljtTfQD)Ho3AKfE+/I#BY;3Pg\!FcE@T$C_M0KR/.J=%ATF*2VR4i^e[Nnr>glM$8T@&6ZS1_qe<]Mr>AJ+5n8pa!4:GYaI\)j`lsX,>004g=c;#M=NCqG2,[iN!BUtCmHpneW*?"_WPI5*opWVbH$2!*BqVOd-0/uj?=lpViW'fHJEjY,ji%Kf[#9<~>endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000073 00000 n 
+0000000104 00000 n 
+0000000211 00000 n 
+0000000404 00000 n 
+0000000472 00000 n 
+0000000768 00000 n 
+0000000827 00000 n 
+trailer
+<<
+/ID 
+[<c412676e4d3167fcb418d4233f43b6f6><c412676e4d3167fcb418d4233f43b6f6>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 5 0 R
+/Root 4 0 R
+/Size 8
+>>
+startxref
+1867
+%%EOF
+
+
 <<
 /F1 2 0 R
 >>
