@@ -6,7 +6,8 @@ Defensive publication to establish prior art on transportation risk prevention t
 g width="2850" height="2433" alt="IrisKey_Logistics_Cargo_Diagram" src="https://github.com/user-attachments/assets/0f910dcf-f8d2-4401-9e3e-ddb6b4345d48" />
 
 attachments/files/22356646/Watertight.Patent.Rewrite.2.pdf)
-<img width="2385" height="2895" alt="IrisKey_Hardware_Software_Integration_Diagram" src="https://github.com/user-attachments/assets/bcad0503-50<img width="2850" height="3360" alt="IrisKey_Layered_Functional_Architecture" src="https://github.com/user-attachments/assets/1b12fb45-1a66-4da7<img width="3082" height="2664" alt="IrisKey_Logistics_Cargo_AdvancedDiagram" src="https://github.com/user-attachments/assets/5b89a6c6-3a93-48d1-ac0b-e3162220ce94" />
+<img width="2385" height="2895" alt="IrisKey_Hardware_Software_Integration_Diagram" src="https://github.com/user-attachments/assets/bcad0503-50<img width="2850" height="3360" alt="IrisKey_Layered_Functional_Archite[Smart Dangerous-Goods Container Monitoring and Autonomous Suppression System  Inventor-  .pdf](https://github.com/user-attachments/files/23427037/Smart.Dangerous-Goods.Container.Monitoring.and.Autonomous.Suppression.System.Inventor-.pdf)
+cture" src="https://github.com/user-attachments/assets/1b12fb45-1a66-4da7<img width="3082" height="2664" alt="IrisKey_Logistics_Cargo_AdvancedDiagram" src="https://github.com/user-attachments/assets/5b89a6c6-3a93-48d1-ac0b-e3162220ce94" />
 -b2cf-07c18826c897" />
 2a-44fd-a8d4-6f2ffeee0a82" />
 
