@@ -217,3 +217,57 @@ startxref
 3068
 %%EOF
 Disclosure.pdf…]()
+Owner avatar
+Human-Normative-Cognitive-Driving-for-Driverless-Vehicles
+Public
+adammccrum/Human-Normative-Cognitive-Driving-for-Driverless-Vehicles
+Go to file
+t
+Name		
+adammccrum
+adammccrum
+Update README to clarify architectural principle
+d402777
+ · 
+now
+README.md
+Update README to clarify architectural principle
+now
+Repository files navigation
+README
+Human-Normative-Cognitive-Driving-for-Driverless-Vehicles
+IrisKey.ai Human-Normative Cognitive Driving for Driverless Vehicles This disclosure describes a vehicle driving architecture in which driving behaviour is selected based on predicted human interpretation, expectation, and social response, rather than solely on physical safety constraints, rule compliance, or trajectory optimisation.
+
+The architecture introduces a human-normative cognition layer that evaluates candidate driving actions according to how surrounding human agents are likely to understand, anticipate, and react to vehicle behaviour, including social norms, informal right-of-way expectations, and contextual human judgement. Vehicle actions are selected to minimise social confusion, misinterpretation, or conflict, even where multiple legally permissible or physically safe actions exist.
+
+This approach differs from perception-driven, planner-driven, or language-driven autonomous driving systems by treating human social understanding as a primary decision variable, independent of specific sensor modalities, machine learning models, or control implementations.
+
+Statement of Intent
+
+IrisKey.ai Ltd publishes this disclosure to establish prior art relating to human-normative cognitive driving architectures, in which driverless vehicle behaviour is governed by anticipated human interpretation and social expectation rather than solely by optimisation, compliance, or statistical safety metrics. This disclosure describes an architectural principle and is not limited to any specific system structure, sequencing, implementation method, or technological embodiment.
+
+About
+IrisKey.ai Human-Normative Cognitive Driving for Driverless Vehicles
+
+Resources
+ Readme
+ Activity
+Stars
+ 0 stars
+Watchers
+ 0 watching
+Forks
+ 0 forks
+Releases
+No releases published
+Create a new release
+Packages
+No packages published
+Publish your first package
+Footer
+© 2026 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
