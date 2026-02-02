@@ -1,3 +1,28 @@
+🔒 Repository Status Notice (Defensive Disclosure)
+
+Status: Archived – Defensive Publication
+
+This repository is published as a defensive disclosure to establish prior art relating to prevention-focused transportation safety and vehicle risk-mitigation architectures.
+
+The material contained herein is intentionally high-level and non-enabling. It describes architectural principles, system objectives, and conceptual frameworks only. It does not disclose implementation details, source code, control logic, parameters, thresholds, hardware configurations, or integration methods sufficient for a skilled person to construct a working system.
+
+This repository does not constitute:
+
+a complete technical specification
+
+an implementation guide
+
+a reference design
+
+a commercial release
+
+a licence to practise any invention
+
+Detailed technical embodiments, control mechanisms, and system implementations are the subject of separately protected intellectual property, including patent filings and confidential materials disclosed only under appropriate legal agreements.
+
+No further updates will be made to this repository.
+
+© Adam McCrum / IrisKey.ai Ltd. All rights reserved.
 [01_Defensive_Publication.pdf](https://github.com/user-attachments/files/22356590/01_Defensive_Publication.pdf)[03_Patent_Claims_Disclosure.pdf](https://github.com/user-attachments/files/22356571/03_Patent_Claims_Disclosure.pdf)# defensive-publication-adam-mccrum
 Defensive publication to establish prior art on transportation risk prevention technologies.
 [Uploading 03_Patent_Claims_%PDF-1.3
